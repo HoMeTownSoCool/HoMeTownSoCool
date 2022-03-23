@@ -1,15 +1,9 @@
-## Hi, this is HoMeTown :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=HoMeTownSoCool)
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
+## Hi there I'm HoMeTown :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=HoMeTownSoCool)
 <h3> 👨🏻‍💻  about me </h3>
-
 - 🌱 &nbsp; An ordinary front end developer
 - 🌱 &nbsp; Love life
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoMeTownSoCool&theme=buefy&show_icons=true" />
-</a>
 
 <h3> 👨🏻‍💻 Tech stack </h3>
 <ul>
@@ -20,4 +14,8 @@
   <li>🛢 &nbsp; MySQL</li>
 </ul>
 
-<br />
+
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=HoMeTownSoCool&show_icons=true&theme=dark)
+
+⭐️ From [HoMeTownSoCool](https://github.com/HoMeTownSoCool)
