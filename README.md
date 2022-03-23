@@ -25,9 +25,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoMeTownSoCool&theme=buefy&show_icons=true" />
 </a>
 
-
-<h3> 🤝🏻 Connect with Me </h3>
-[![Wechat Subscription Account](https://img.shields.io/badge/subscription%20account-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=wechat)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQxNTgxNQ==&scene=124#wechat_redirect)
-
-
 ⭐️ From [HoMeTownSoCool](https://github.com/HoMeTownSoCool)
