@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 ## Hi there I'm HoMeTown :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=HoMeTownSoCool)
 <h3> 👨🏻‍💻  about me </h3>
 <ul>
