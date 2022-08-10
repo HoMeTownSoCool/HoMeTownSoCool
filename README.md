@@ -22,8 +22,4 @@
   <li><a href="http://www.ishometown.com/">Profile</a></li>
 </ul>
 
-
-
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=HoMeTownSoCool&show_icons=true&theme=dark)
-
 ⭐️ From [HoMeTownSoCool](https://github.com/HoMeTownSoCool)
