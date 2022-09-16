@@ -1,25 +1,14 @@
 ## Hi there I'm HoMeTown :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=HoMeTownSoCool)
-<h3> 👨🏻‍💻  about me </h3>
+<h3> 👨🏻‍💻  HoMeTown 侯明涛 </h3>
 <ul>
-  <li>🌱 &nbsp; An ordinary front end developer</li>
-  <li>🌱 &nbsp; Love life</li>
-</ul>
-
-<h3> 👨🏻‍💻 Tech stack </h3>
-<ul>
-  <li>🌐 &nbsp; VueJs | SolidJs | React | JavaScript | CSS | Webpack</li>
-  <li>💻 &nbsp; Golang | Python | Java | C++</li>
-  <li>🔧 &nbsp; Sequel Pro | Goland | Visual Studio code | SourceTree | Git</li>
-  <li>🖥 &nbsp; TyPora | Termius | Photoshop | Oss browser</li>
-  <li>🛢 &nbsp; MySQL</li>
+  <li>🌱 &nbsp; 一个普通的前端开发</li>
+  <li>🌱 &nbsp; 热爱生活</li>
 </ul>
 
 <h3> 👨🏻‍💻 social contact </h3>
 <ul>
   <li><a href="https://juejin.cn/user/4116184668057390">Juejin</a></li>
-  <li><a href="https://space.bilibili.com/443250712">Bilibili</a></li>
   <li><a href="http://blog.ishometown.com/">Blog</a></li>
-  <li><a href="http://www.ishometown.com/">Profile</a></li>
 </ul>
 
 ⭐️ From [HoMeTownSoCool](https://github.com/HoMeTownSoCool)
