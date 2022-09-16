@@ -5,10 +5,10 @@
   <li>🌱 &nbsp; 热爱生活</li>
 </ul>
 
-<h3> 👨🏻‍💻 social contact </h3>
+<h3> 👨🏻‍💻 社交媒体 </h3>
 <ul>
-  <li><a href="https://juejin.cn/user/4116184668057390">Juejin</a></li>
-  <li><a href="http://blog.ishometown.com/">Blog</a></li>
+  <li><a href="https://juejin.cn/user/4116184668057390">掘金</a></li>
+  <li><a href="http://blog.ishometown.com/">博客</a></li>
 </ul>
 
 ⭐️ From [HoMeTownSoCool](https://github.com/HoMeTownSoCool)
