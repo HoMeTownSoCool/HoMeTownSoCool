@@ -1,4 +1,4 @@
-## Hi there I'm HoMeTown :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=HoMeTownSoCool)
+## 行！你真有眼光！ :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=HoMeTownSoCool)
 <h3> 👨🏻‍💻  HoMeTown 侯明涛 </h3>
 <ul>
   <li>🌱 &nbsp; 一个普通的前端开发</li>
