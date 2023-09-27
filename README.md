@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="30"/> 嗨 你好, 我是 侯明涛. <sup>(or HoMeTown)</sup></h1>
-<p>我是一个程序员，梦想是不写代码。</p>
+<p>我是一个程序员。</p>
 <h3>我的技术栈</h3>
 <p>
 
