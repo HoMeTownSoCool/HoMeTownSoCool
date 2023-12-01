@@ -1,2 +1,4 @@
-<div style="width: 100%; text-algin: center;">hometown cool</div>
-<a href="https://juejin.cn/user/4116184668057390"><b>Blog</b></a>
+Hey, I am HoMeTown, a fontender.
+
+
+<a href="https://blog.hometownjs.top">Blog</a> · <a href="https://juejin.cn/user/4116184668057390">Juejin</a>
